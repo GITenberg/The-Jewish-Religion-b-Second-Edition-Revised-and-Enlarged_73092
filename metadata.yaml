@@ -1,0 +1,34 @@
+_repo: The-Jewish-Religion-b-Second-Edition-Revised-and-Enlarged_73092
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Friedländer, M. (Michael)
+    aliases:
+    - Friedländer, Michael
+    - Friedlander, M. (Michael)
+    - Friedlaender, M. (Michael)
+    birthdate: 1833
+    deathdate: 1910
+    gutenberg_agent_id: '48612'
+    url: http://www.gutenberg.org/2009/agents/48612
+description: ''
+gutenberg_issued: '2024-03-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73092'
+language: en
+pgterms:marc904: https://archive.org/details/thejewishreligio00frie/page/n6
+pgterms:marc905: 20190206120333friedlnder
+pgterms:marc906: '1900'
+pgterms:marc907: GB
+production_note: Jeroen Hellingman and the Online Distributed Proofreading Team at
+  https://www.pgdp.net for Project Gutenberg (This file was produced from images generously
+  made available by The Internet Archive/American Libraries.)
+publication_note: '  $aLondon :$bP. Vallentine & Son, $c1900.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Jewish Religion : $b Second Edition, Revised and Enlarged.'
+url: http://www.gutenberg.org/ebooks/73092
